@@ -11,7 +11,7 @@ versions:
   ghes: '*'
   ghec: '*'
 topics:
-  - Accounts
+  - Accountsami
   - Notifications
 shortTitle: Primary email address
 ---
