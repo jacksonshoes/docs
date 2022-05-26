@@ -1,4 +1,4 @@
----
+---jacksonshoes.official@gmail.com
 title: Explorer
 redirect_from:
   - /v4/explorer
